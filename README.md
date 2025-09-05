@@ -1,6 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Accessing the web
 
-## Getting Started
+[Kindly please click the link here to access the deployed web](https://tes-rectmedia-adlial.vercel.app/)
+
 
 First, run the development server:
 
